@@ -4,7 +4,7 @@ The script answers the question How many zones have sea ice within them?
 The [text product output](https://tgftp.nws.noaa.gov/data/raw/fz/fzak80.pafc.ice.afc.txt) with human input for the forecast verbage.
 
 
-![The two ArcMap layers being used. Yellow is the sea ice, and blue are the NWS marine zones](ArcMapCapture.png)
+![The two ArcMap layers being used. Yellow is the sea ice, and blue are the NWS marine zones](ArcMapCapture.PNG)
 
 
 
